@@ -1,1 +1,111 @@
-
+[
+  {
+    "id": 1,
+    "input": "We are looking for a Junior Video Data Annotator. This is a fully remote position. Candidates should have strong English communication skills and excellent attention to detail. Previous experience labeling video data is preferred.",
+    "expected": {
+      "job_title": "Junior Video Data Annotator",
+      "seniority_level": "Junior",
+      "work_type": "Remote",
+      "required_skills": [
+        "English communication",
+        "attention to detail"
+      ],
+      "preferred_experience": [
+        "video data labeling"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "input": "Hiring a Senior Data Analyst for our office in Tripoli. Applicants must be proficient in SQL and Excel. Experience with Power BI is a plus.",
+    "expected": {
+      "job_title": "Senior Data Analyst",
+      "seniority_level": "Senior",
+      "work_type": "On-site",
+      "required_skills": [
+        "SQL",
+        "Excel"
+      ],
+      "preferred_experience": [
+        "Power BI"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "input": "We need a customer support representative. The position can be performed remotely. Good written communication and problem-solving skills are required.",
+    "expected": {
+      "job_title": "Customer Support Representative",
+      "seniority_level": null,
+      "work_type": "Remote",
+      "required_skills": [
+        "written communication",
+        "problem-solving"
+      ],
+      "preferred_experience": []
+    }
+  },
+  {
+    "id": 4,
+    "input": "Marketing Intern wanted. No previous experience is required. Applicants should be creative and comfortable using social media platforms.",
+    "expected": {
+      "job_title": "Marketing Intern",
+      "seniority_level": "Intern",
+      "work_type": null,
+      "required_skills": [
+        "creativity",
+        "social media"
+      ],
+      "preferred_experience": []
+    }
+  },
+  {
+    "id": 5,
+    "input": "Our company is seeking a Software Engineer. The successful candidate will work from home and should know Python and Git. Knowledge of Docker is desirable.",
+    "expected": {
+      "job_title": "Software Engineer",
+      "seniority_level": null,
+      "work_type": "Remote",
+      "required_skills": [
+        "Python",
+        "Git"
+      ],
+      "preferred_experience": [
+        "Docker"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "input": "We are hiring an experienced project manager. You will coordinate teams, manage deadlines, and communicate with stakeholders. PMP certification is preferred. The role is based in Benghazi.",
+    "expected": {
+      "job_title": "Project Manager",
+      "seniority_level": "Experienced",
+      "work_type": "On-site",
+      "required_skills": [
+        "team coordination",
+        "deadline management",
+        "stakeholder communication"
+      ],
+      "preferred_experience": [
+        "PMP certification"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "input": "Join our team as a Graphic Designer. Applicants should have experience with Adobe Photoshop and Illustrator. This is a hybrid role.",
+    "expected": {
+      "job_title": "Graphic Designer",
+      "seniority_level": null,
+      "work_type": "Hybrid",
+      "required_skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator"
+      ],
+      "preferred_experience": []
+    }
+  },
+  {
+    "id": 8,
+    "input": "Entry-level content writer needed. Strong
